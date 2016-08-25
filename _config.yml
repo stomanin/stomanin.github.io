@@ -1,7 +1,7 @@
 # Site settings
 name: Silvia Tomanin
-description: "Computer engineer. Drupal aficionado. I love food and pleasant UX. Now PM on the CV."
-url: ""
+description: "Computer engineer. Web developer and project manager. Loving food and pleasant UX."
+url: "stomanin.github.io"
 
 
 # Delete the lines you don't need
@@ -20,7 +20,7 @@ linkedin_username: silviatomanin
 #soundcloud_username:  your_soundcloud_username_goes_here
 #stack_of_username: your_stack_overflow_account_id_number_goes_here
 #reddit_username: your_reddit_username_goes_here
-#medium_username:  your_medium_username_goes_here
+medium_username:  stomanin
 #tumblr_username: your_tumblr_username_goes_here
 #weibo_username: your_weibo_username_goes_here
 #lastfm_username: your_lastfm_username_goes_here
@@ -30,14 +30,14 @@ linkedin_username: silviatomanin
 
 
 avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
+# avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
 avatar_img_path: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAGrAAAAJGE1MGM0MDExLWVkOWMtNGMyMC04M2I0LTlkYzI0YzE4N2MzZQ.jpg"
 
 
 front_img: yes
-front_img_path: "imgs/background.jpg"
+front_img_path: "imgs/background-3.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
 
