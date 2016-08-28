@@ -33,12 +33,12 @@ avatar: yes
 # avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAGrAAAAJGE1MGM0MDExLWVkOWMtNGMyMC04M2I0LTlkYzI0YzE4N2MzZQ.jpg"
+avatar_img_path: "https://pbs.twimg.com/profile_images/3731722586/0bc44e1cabf8828abf9a0ea001879386.png"
 
 
 front_img: yes
-front_img_path: "imgs/background-3.jpg"
-#front_img_path: "https://external.url/image.jpg"
+front_img_path: "imgs/background.jpeg"
+#front_img_path: "https://pbs.twimg.com/profile_banners/330204570/1427135709/1500x500"
 
 
 favicon_img: yes
