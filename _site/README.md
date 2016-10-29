@@ -1,11 +1,8 @@
 # Personal website
-This is (hopefully) the temp landing for my personal website.
+This is landing for my personal websitem that you can find at <a href="https://stomanin.github.io/">https://stomanin.github.io</a>.
 
 ## Credits
-This website uses the <a href="https://github.com/dashingcode/front-cover">front cover jekyll theme</a>
-The background image comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
+This website uses a Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+
 
 This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
-

@@ -1,50 +1,59 @@
 # Site settings
-name: Silvia Tomanin
-description: "Computer engineer. Web developer and project manager. Loving food and pleasant UX."
-url: "stomanin.github.io"
+title: Silvia Tomanin
+email: silvia.tomanin@gmail.com
+url: https://stomanin.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+skills: "Web engineer and product manager. Loving food and pleasant UX."
+meta_author: Tomanin Silvia
 
+# Google webmaster tools
+google_verify:
 
-# Delete the lines you don't need
-# about 5 elements are recomended
-github_username:  stomanin
-#codepen_username: your_codepen_username_goes_here
-#facebook_username: your_facebook_username_goes_here
-#vk_username: your_vk_username_goes_here
-twitter_username: thelucea
-#google_plus_username: your_google_plus_username_goes_here
-linkedin_username: silviatomanin
-#vine_username:  your_vine_username_goes_here
-#instagram_username:  your_instagram_username_goes_here
-#flickr_username: your_flickr_username_goes_here
-#steam_username: your_steam_username_goes_here
-#soundcloud_username:  your_soundcloud_username_goes_here
-#stack_of_username: your_stack_overflow_account_id_number_goes_here
-#reddit_username: your_reddit_username_goes_here
-medium_username:  stomanin
-#tumblr_username: your_tumblr_username_goes_here
-#weibo_username: your_weibo_username_goes_here
-#lastfm_username: your_lastfm_username_goes_here
-#blog_url: "/blog"
-#email: your-email@example.domain
-#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
 
-avatar: yes
-# avatar_img_path: "imgs/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://pbs.twimg.com/profile_images/3731722586/0bc44e1cabf8828abf9a0ea001879386.png"
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
 
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
 
-front_img: yes
-front_img_path: "imgs/background.jpeg"
-#front_img_path: "https://pbs.twimg.com/profile_banners/330204570/1427135709/1500x500"
+# Footer settings
+footer:
+  copyright: Silvia Tomanin
+  location: Location
+  social: Around the Web
+  credits: About 
 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://linkedin.com/in/silviatomanin
+  - title: twitter
+    url: http://twitter.com/thelucea
+  - title: github
+    url: http://github.com/stomanin
+  - title: medium
+    url: https://medium.com/@stomanin
 
-favicon_img: yes
-favicon_img_path: "imgs/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
+# Postal address (add as many lines as necessary)
+address:
+  - line: I am based in Geneva (Switzerland)
+  - line: GMT+1 Timezone
 
+# About content
+credits: 'Web engineer and product manager. Loving food and pleasant UX.'
 
 # Build settings
 markdown: kramdown

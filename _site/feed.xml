@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvia Tomanin</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>https://stomanin.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 29 Oct 2016 21:30:01 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 21:30:01 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ipu Website Redesign</title>
+        <description>Product management, information architecture design, UX, migration.  &lt;br /&gt; Visit the &lt;a href=&quot;https://beta.ipu.org&quot;&gt;Inter-Parliamentary Union website&lt;/a&gt; / Drupal 7, Apache Solr, Redis</description>
+        <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
+        <link>https://stomanin.github.io/product%20management/2016/10/27/IPU-website-redesign/</link>
+        <guid isPermaLink="true">https://stomanin.github.io/product%20management/2016/10/27/IPU-website-redesign/</guid>
+        
+        
+        <category>Product management</category>
+        
+      </item>
+    
+      <item>
+        <title>Doc On Demand Product Design</title>
+        <description>&lt;a href=&quot;https://invis.io/W583POX7V&quot;&gt;DocOnDemand&lt;/a&gt;, an app that will help you find the best doctors for your needs. Brainstorming, prototyping, design iterations, and evaluation. / Balsamiq, InVision, UserTesting</description>
+        <pubDate>Sun, 14 Aug 2016 00:00:00 +0200</pubDate>
+        <link>https://stomanin.github.io/product%20design/2016/08/14/Doc-On-Demand-product-design/</link>
+        <guid isPermaLink="true">https://stomanin.github.io/product%20design/2016/08/14/Doc-On-Demand-product-design/</guid>
+        
+        
+        <category>Product design</category>
+        
+      </item>
+    
+      <item>
+        <title>Médecins Sans Frontières Cms Shared Platform</title>
+        <description>&lt;p&gt;Website redesigns, migration, technical management and customer support for the MSF CMS Shared Platform. &lt;p&gt;Visit &lt;a href=&quot;http://www.doctorswithoutborders.org&quot;&gt;http://www.doctorswithoutborders.org&lt;/a&gt;. &lt;p&gt;Drupal 7 multisite, SASS, Apache Solr, Varnish</description>
+        <pubDate>Tue, 15 Sep 2015 00:00:00 +0200</pubDate>
+        <link>https://stomanin.github.io/web%20development%20/%20infrastructure%20management/2015/09/15/me-decins-sans-frontie-res-CMS-Shared-Platform/</link>
+        <guid isPermaLink="true">https://stomanin.github.io/web%20development%20/%20infrastructure%20management/2015/09/15/me-decins-sans-frontie-res-CMS-Shared-Platform/</guid>
+        
+        
+        <category>Web Development / Infrastructure Management</category>
+        
+      </item>
+    
+      <item>
+        <title>Msf International Website</title>
+        <description>Website management, content publication and technical maintenance for the &lt;a href=&quot;https://msf.org&quot;&gt;MSF International Website&lt;/a&gt;. / Drupal 7, Varnish, Apache Solr</description>
+        <pubDate>Mon, 15 Sep 2014 00:00:00 +0200</pubDate>
+        <link>https://stomanin.github.io/product%20management/2014/09/15/MSF-International-website/</link>
+        <guid isPermaLink="true">https://stomanin.github.io/product%20management/2014/09/15/MSF-International-website/</guid>
+        
+        
+        <category>Product Management</category>
+        
+      </item>
+    
+      <item>
+        <title>Iconcerts</title>
+        <description>&lt;a href=&quot;https://www3.iconcerts.com/&quot;&gt;iConcerts Website&lt;/a&gt; maintenance / Drupal 6</description>
+        <pubDate>Thu, 20 Mar 2014 00:00:00 +0100</pubDate>
+        <link>https://stomanin.github.io/web%20development/2014/03/20/iconcerts/</link>
+        <guid isPermaLink="true">https://stomanin.github.io/web%20development/2014/03/20/iconcerts/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Generations Plus Website</title>
+        <description>Website design, configuration and custom development for the Swiss magazine &lt;a href=&quot;http://www.generations-plus.ch/&quot;&gt;Générations Plus&lt;/a&gt;. Community and e-commerce features and external web services integration. / Drupal 7, SOAP web services</description>
+        <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+        <link>https://stomanin.github.io/web%20development/2014/02/20/generations-plus-website/</link>
+        <guid isPermaLink="true">https://stomanin.github.io/web%20development/2014/02/20/generations-plus-website/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Cern Public Website Redesign</title>
+        <description>Site building, custom modules development, migration, maintenance for &lt;a href=&quot;https://home.cern&quot;&gt;CERN core website&lt;/a&gt; and other satellite websites (ie. &lt;a href=&quot;https://press.cern&quot;&gt;CERN Press&lt;/a&gt;, &lt;a href=&quot;http://entice.web.cern.ch&quot;&gt;Entice project&lt;/a&gt;). / Drupal 7, SASS, LDAP, JSON</description>
+        <pubDate>Thu, 07 Mar 2013 00:00:00 +0100</pubDate>
+        <link>https://stomanin.github.io/web%20development/2013/03/07/cern-public-website-redesign/</link>
+        <guid isPermaLink="true">https://stomanin.github.io/web%20development/2013/03/07/cern-public-website-redesign/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
