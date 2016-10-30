@@ -7,7 +7,7 @@ alt: image-alt
 project-date: August 2016
 client: Personal project
 category: Product design
-description: <a href="https://invis.io/W583POX7V">DocOnDemand</a>, an app that will help you find the best doctors for your needs. Brainstorming, prototyping, design iterations, and evaluation. / Balsamiq, InVision, UserTesting
+description: <a href="https://invis.io/W583POX7V">DocOnDemand</a>, an app that will help you find the best doctors for your needs. Brainstorming, prototyping, design iterations, and evaluation. / Mobile, Balsamiq, InVision, UserTesting
 
 
 
