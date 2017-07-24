@@ -3,7 +3,7 @@ title: Silvia Tomanin
 email: silvia.tomanin@gmail.com
 url: https://stomanin.github.io
 description: "Silvia Tomanin's website: web engineer and product manager."
-skills: "Web engineer and product manager. Loving food and pleasant UX."
+skills: "Web engineer, product manager. Drupal and Open Data enthusiast."
 meta_author: Tomanin Silvia
 
 # Google webmaster tools
@@ -49,11 +49,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: I am based in Geneva (Switzerland)
-  - line: GMT+1 Timezone
+  - line: San Diego, CA (UTC-08)  
+  - line: / Remote
 
 # About content
-credits: 'Web engineer and product manager. Loving food and pleasant UX.'
+credits: 'Web engineer, product manager. Drupal and Open Data enthusiast.'
 
 # Build settings
 markdown: kramdown
