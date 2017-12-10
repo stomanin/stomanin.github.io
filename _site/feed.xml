@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silvia Tomanin</title>
-    <description>Silvia Tomanin's website: web engineer and product manager.</description>
+    <description>Silvia Tomanin's website: web engineer + product manager.</description>
     <link>https://stomanin.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Dec 2017 13:34:40 +0100</pubDate>
-    <lastBuildDate>Tue, 05 Dec 2017 13:34:40 +0100</lastBuildDate>
+    <pubDate>Sun, 10 Dec 2017 23:59:16 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2017 23:59:16 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

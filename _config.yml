@@ -2,8 +2,8 @@
 title: Silvia Tomanin
 email: silvia.tomanin@gmail.com
 url: https://stomanin.github.io
-description: "Silvia Tomanin's website: web engineer and product manager."
-skills: "Web engineer, product manager. Drupal and Open Data enthusiast."
+description: "Silvia Tomanin's website: web engineer + product manager."
+skills: "Web engineer, product manager. Open Source and Open Data enthusiast."
 meta_author: Tomanin Silvia
 
 # Google webmaster tools
@@ -25,7 +25,7 @@ contact: static
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 3498db #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "138,209,255" #"24,288,156" 
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -53,7 +53,7 @@ address:
   - line: / Remote
 
 # About content
-credits: 'Web engineer, product manager. Drupal and Open Data enthusiast.'
+credits: 'Web engineer, product manager. Open Source and Open Data enthusiast.'
 
 # Build settings
 markdown: kramdown
