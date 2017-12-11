@@ -5,13 +5,13 @@
     <description>Silvia Tomanin's website: web engineer + product manager.</description>
     <link>https://stomanin.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Dec 2017 23:59:16 +0100</pubDate>
-    <lastBuildDate>Sun, 10 Dec 2017 23:59:16 +0100</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2017 12:51:10 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 12:51:10 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Ipu Open Data</title>
-        <description>Product management, product ownership, data visualization, UX.  &lt;br /&gt; &lt;a href=&quot;http://ipu-design.ffwdev.com/&quot;&gt;IPU Open Data prototype (platform currently under development)&lt;/a&gt; / Drupal 7, data visualization, multilingual, responsive, REST APIs</description>
+        <description>Led the design and development of the IPU Open Data platform for housing, managing, visualizing and sharing IPU data on parliaments. &lt;br /&gt;&lt;br /&gt;Product management, product ownership, data visualization, UX, usability tests.  &lt;br /&gt; &lt;a href=&quot;http://ipu-design.ffwdev.com/&quot;&gt;IPU Open Data prototype (platform currently under development)&lt;/a&gt; / Drupal 7, data visualization, multilingual, responsive, REST APIs</description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0100</pubDate>
         <link>https://stomanin.github.io/product%20management/2017/11/30/IPU-open-data/</link>
         <guid isPermaLink="true">https://stomanin.github.io/product%20management/2017/11/30/IPU-open-data/</guid>

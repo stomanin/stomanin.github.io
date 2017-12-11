@@ -7,6 +7,6 @@ alt: image-alt
 project-date: November 2017
 client: Inter-Parliamentary Union
 category: Product management
-description: Product management, product ownership, data visualization, UX.  <br /> <a href="http://ipu-design.ffwdev.com/">IPU Open Data prototype (platform currently under development)</a> / Drupal 7, data visualization, multilingual, responsive, REST APIs
+description: Led the design and development of the IPU Open Data platform for housing, managing, visualizing and sharing IPU data on parliaments. <br /><br />Product management, product ownership, data visualization, UX, usability tests.  <br /> <a href="http://ipu-design.ffwdev.com/">IPU Open Data prototype (platform currently under development)</a> / Drupal 7, data visualization, multilingual, responsive, REST APIs
 
 ---
