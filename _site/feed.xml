@@ -3,18 +3,18 @@
   <channel>
     <title>Silvia Tomanin</title>
     <description>Silvia Tomanin's website: web engineer + product manager.</description>
-    <link>https://stomanin.github.io/</link>
+    <link>http://localhost:4000/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Dec 2017 12:51:10 +0100</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 12:51:10 +0100</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Mon, 01 Jan 2018 00:03:38 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:03:38 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Ipu Open Data</title>
         <description>Led the design and development of the IPU Open Data platform for housing, managing, visualizing and sharing IPU data on parliaments. &lt;br /&gt;&lt;br /&gt;Product management, product ownership, data visualization, UX, usability tests.  &lt;br /&gt; &lt;a href=&quot;http://ipu-design.ffwdev.com/&quot;&gt;IPU Open Data prototype (platform currently under development)&lt;/a&gt; / Drupal 7, data visualization, multilingual, responsive, REST APIs</description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0100</pubDate>
-        <link>https://stomanin.github.io/product%20management/2017/11/30/IPU-open-data/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/product%20management/2017/11/30/IPU-open-data/</guid>
+        <link>http://localhost:4000/product%20management/2017/11/30/IPU-open-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/product%20management/2017/11/30/IPU-open-data/</guid>
         
         
         <category>Product management</category>
@@ -25,8 +25,8 @@
         <title>Ipu Website Redesign</title>
         <description>Product management, information architecture design, UX, migration.  &lt;br /&gt; Visit the &lt;a href=&quot;https://beta.ipu.org&quot;&gt;Inter-Parliamentary Union website&lt;/a&gt; / Drupal 7, multilingual, responsive, migration, Apache Solr, Redis</description>
         <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://stomanin.github.io/product%20management/2016/10/27/IPU-website-redesign/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/product%20management/2016/10/27/IPU-website-redesign/</guid>
+        <link>http://localhost:4000/product%20management/2016/10/27/IPU-website-redesign/</link>
+        <guid isPermaLink="true">http://localhost:4000/product%20management/2016/10/27/IPU-website-redesign/</guid>
         
         
         <category>Product management</category>
@@ -37,8 +37,8 @@
         <title>Doc On Demand Product Design</title>
         <description>&lt;a href=&quot;https://invis.io/W583POX7V&quot;&gt;DocOnDemand&lt;/a&gt;, an app that will help you find the best doctors for your needs. Brainstorming, prototyping, design iterations, and evaluation. / Mobile, Balsamiq, InVision, UserTesting</description>
         <pubDate>Sun, 14 Aug 2016 00:00:00 +0200</pubDate>
-        <link>https://stomanin.github.io/product%20design/2016/08/14/Doc-On-Demand-product-design/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/product%20design/2016/08/14/Doc-On-Demand-product-design/</guid>
+        <link>http://localhost:4000/product%20design/2016/08/14/Doc-On-Demand-product-design/</link>
+        <guid isPermaLink="true">http://localhost:4000/product%20design/2016/08/14/Doc-On-Demand-product-design/</guid>
         
         
         <category>Product design</category>
@@ -46,11 +46,11 @@
       </item>
     
       <item>
-        <title>Médecins Sans Frontières Cms Shared Platform</title>
+        <title>Médecins Sans Frontières Cms Shared Platform</title>
         <description>&lt;p&gt;Website redesigns, migration, technical management and customer support for the MSF CMS Shared Platform. &lt;p&gt;Visit &lt;a href=&quot;http://www.doctorswithoutborders.org&quot;&gt;http://www.doctorswithoutborders.org&lt;/a&gt;. &lt;p&gt;Drupal 7 multisite, multilingual, responsive, migration, SASS, Apache Solr, Varnish</description>
         <pubDate>Tue, 15 Sep 2015 00:00:00 +0200</pubDate>
-        <link>https://stomanin.github.io/web%20development%20/%20infrastructure%20management/2015/09/15/me-decins-sans-frontie-res-CMS-Shared-Platform/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/web%20development%20/%20infrastructure%20management/2015/09/15/me-decins-sans-frontie-res-CMS-Shared-Platform/</guid>
+        <link>http://localhost:4000/web%20development%20/%20infrastructure%20management/2015/09/15/m%C3%A9decins-sans-fronti%C3%A8res-CMS-Shared-Platform/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development%20/%20infrastructure%20management/2015/09/15/m%C3%A9decins-sans-fronti%C3%A8res-CMS-Shared-Platform/</guid>
         
         
         <category>Web Development / Infrastructure Management</category>
@@ -61,8 +61,8 @@
         <title>Msf International Website</title>
         <description>Website management, content publication and technical maintenance for the &lt;a href=&quot;https://msf.org&quot;&gt;MSF International Website&lt;/a&gt;. / Drupal 7, Varnish, Apache Solr, responsive</description>
         <pubDate>Mon, 15 Sep 2014 00:00:00 +0200</pubDate>
-        <link>https://stomanin.github.io/product%20management/2014/09/15/MSF-International-website/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/product%20management/2014/09/15/MSF-International-website/</guid>
+        <link>http://localhost:4000/product%20management/2014/09/15/MSF-International-website/</link>
+        <guid isPermaLink="true">http://localhost:4000/product%20management/2014/09/15/MSF-International-website/</guid>
         
         
         <category>Product Management</category>
@@ -73,8 +73,8 @@
         <title>Iconcerts</title>
         <description>&lt;a href=&quot;https://www3.iconcerts.com/&quot;&gt;iConcerts Website&lt;/a&gt; maintenance / Drupal 6</description>
         <pubDate>Thu, 20 Mar 2014 00:00:00 +0100</pubDate>
-        <link>https://stomanin.github.io/web%20development/2014/03/20/iconcerts/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/web%20development/2014/03/20/iconcerts/</guid>
+        <link>http://localhost:4000/web%20development/2014/03/20/iconcerts/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/03/20/iconcerts/</guid>
         
         
         <category>Web Development</category>
@@ -85,8 +85,8 @@
         <title>Generations Plus Website</title>
         <description>Website design, configuration and custom development for the Swiss magazine &lt;a href=&quot;http://www.generations-plus.ch/&quot;&gt;Générations Plus&lt;/a&gt;. Community and e-commerce features and external web services integration. / Drupal 7, e-commerce, SOAP web services</description>
         <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
-        <link>https://stomanin.github.io/web%20development/2014/02/20/generations-plus-website/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/web%20development/2014/02/20/generations-plus-website/</guid>
+        <link>http://localhost:4000/web%20development/2014/02/20/generations-plus-website/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/02/20/generations-plus-website/</guid>
         
         
         <category>Web Development</category>
@@ -97,8 +97,8 @@
         <title>Cern Public Website Redesign</title>
         <description>Site building, custom modules development, migration, maintenance for &lt;a href=&quot;https://home.cern&quot;&gt;CERN core website&lt;/a&gt; and other satellite websites (ie. &lt;a href=&quot;https://press.cern&quot;&gt;CERN Press&lt;/a&gt;, &lt;a href=&quot;http://entice.web.cern.ch&quot;&gt;Entice project&lt;/a&gt;). / Drupal 7, SASS, LDAP, JSON, multilingual, responsive, migration</description>
         <pubDate>Thu, 07 Mar 2013 00:00:00 +0100</pubDate>
-        <link>https://stomanin.github.io/web%20development/2013/03/07/cern-public-website-redesign/</link>
-        <guid isPermaLink="true">https://stomanin.github.io/web%20development/2013/03/07/cern-public-website-redesign/</guid>
+        <link>http://localhost:4000/web%20development/2013/03/07/cern-public-website-redesign/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2013/03/07/cern-public-website-redesign/</guid>
         
         
         <category>Web Development</category>
