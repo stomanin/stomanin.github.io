@@ -1,109 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Silvia Tomanin</title>
-    <description>Silvia Tomanin's website: web engineer + product manager.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Jan 2018 00:03:38 +0100</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2018 00:03:38 +0100</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
-    
-      <item>
-        <title>Ipu Open Data</title>
-        <description>Led the design and development of the IPU Open Data platform for housing, managing, visualizing and sharing IPU data on parliaments. &lt;br /&gt;&lt;br /&gt;Product management, product ownership, data visualization, UX, usability tests.  &lt;br /&gt; &lt;a href=&quot;http://ipu-design.ffwdev.com/&quot;&gt;IPU Open Data prototype (platform currently under development)&lt;/a&gt; / Drupal 7, data visualization, multilingual, responsive, REST APIs</description>
-        <pubDate>Thu, 30 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/product%20management/2017/11/30/IPU-open-data/</link>
-        <guid isPermaLink="true">http://localhost:4000/product%20management/2017/11/30/IPU-open-data/</guid>
-        
-        
-        <category>Product management</category>
-        
-      </item>
-    
-      <item>
-        <title>Ipu Website Redesign</title>
-        <description>Product management, information architecture design, UX, migration.  &lt;br /&gt; Visit the &lt;a href=&quot;https://beta.ipu.org&quot;&gt;Inter-Parliamentary Union website&lt;/a&gt; / Drupal 7, multilingual, responsive, migration, Apache Solr, Redis</description>
-        <pubDate>Thu, 27 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/product%20management/2016/10/27/IPU-website-redesign/</link>
-        <guid isPermaLink="true">http://localhost:4000/product%20management/2016/10/27/IPU-website-redesign/</guid>
-        
-        
-        <category>Product management</category>
-        
-      </item>
-    
-      <item>
-        <title>Doc On Demand Product Design</title>
-        <description>&lt;a href=&quot;https://invis.io/W583POX7V&quot;&gt;DocOnDemand&lt;/a&gt;, an app that will help you find the best doctors for your needs. Brainstorming, prototyping, design iterations, and evaluation. / Mobile, Balsamiq, InVision, UserTesting</description>
-        <pubDate>Sun, 14 Aug 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/product%20design/2016/08/14/Doc-On-Demand-product-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/product%20design/2016/08/14/Doc-On-Demand-product-design/</guid>
-        
-        
-        <category>Product design</category>
-        
-      </item>
-    
-      <item>
-        <title>Médecins Sans Frontières Cms Shared Platform</title>
-        <description>&lt;p&gt;Website redesigns, migration, technical management and customer support for the MSF CMS Shared Platform. &lt;p&gt;Visit &lt;a href=&quot;http://www.doctorswithoutborders.org&quot;&gt;http://www.doctorswithoutborders.org&lt;/a&gt;. &lt;p&gt;Drupal 7 multisite, multilingual, responsive, migration, SASS, Apache Solr, Varnish</description>
-        <pubDate>Tue, 15 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development%20/%20infrastructure%20management/2015/09/15/m%C3%A9decins-sans-fronti%C3%A8res-CMS-Shared-Platform/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development%20/%20infrastructure%20management/2015/09/15/m%C3%A9decins-sans-fronti%C3%A8res-CMS-Shared-Platform/</guid>
-        
-        
-        <category>Web Development / Infrastructure Management</category>
-        
-      </item>
-    
-      <item>
-        <title>Msf International Website</title>
-        <description>Website management, content publication and technical maintenance for the &lt;a href=&quot;https://msf.org&quot;&gt;MSF International Website&lt;/a&gt;. / Drupal 7, Varnish, Apache Solr, responsive</description>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/product%20management/2014/09/15/MSF-International-website/</link>
-        <guid isPermaLink="true">http://localhost:4000/product%20management/2014/09/15/MSF-International-website/</guid>
-        
-        
-        <category>Product Management</category>
-        
-      </item>
-    
-      <item>
-        <title>Iconcerts</title>
-        <description>&lt;a href=&quot;https://www3.iconcerts.com/&quot;&gt;iConcerts Website&lt;/a&gt; maintenance / Drupal 6</description>
-        <pubDate>Thu, 20 Mar 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/03/20/iconcerts/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/03/20/iconcerts/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Generations Plus Website</title>
-        <description>Website design, configuration and custom development for the Swiss magazine &lt;a href=&quot;http://www.generations-plus.ch/&quot;&gt;Générations Plus&lt;/a&gt;. Community and e-commerce features and external web services integration. / Drupal 7, e-commerce, SOAP web services</description>
-        <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/02/20/generations-plus-website/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/02/20/generations-plus-website/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Cern Public Website Redesign</title>
-        <description>Site building, custom modules development, migration, maintenance for &lt;a href=&quot;https://home.cern&quot;&gt;CERN core website&lt;/a&gt; and other satellite websites (ie. &lt;a href=&quot;https://press.cern&quot;&gt;CERN Press&lt;/a&gt;, &lt;a href=&quot;http://entice.web.cern.ch&quot;&gt;Entice project&lt;/a&gt;). / Drupal 7, SASS, LDAP, JSON, multilingual, responsive, migration</description>
-        <pubDate>Thu, 07 Mar 2013 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2013/03/07/cern-public-website-redesign/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2013/03/07/cern-public-website-redesign/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-02T10:40:15+01:00</updated><id>http://localhost:4000/</id><title type="html">Silvia Tomanin</title><subtitle>Silvia Tomanin - Web engineer, product manager. Open Source and Open Data enthusiast.</subtitle><entry><title type="html">IPU Open Data</title><link href="http://localhost:4000/project-IPU-open-data/" rel="alternate" type="text/html" title="IPU Open Data" /><published>2017-11-30T00:00:00+01:00</published><updated>2017-11-30T00:00:00+01:00</updated><id>http://localhost:4000/project-IPU-open-data</id><content type="html" xml:base="http://localhost:4000/project-IPU-open-data/">&lt;p&gt;&lt;img src=&quot;/assets/images/projects/ipu_odp.png&quot; alt=&quot;Screenshot&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Led the design and development of the IPU Open Data platform for housing, managing, visualizing and sharing IPU data on parliaments.&lt;/p&gt;
+
+&lt;p&gt;Product management, product ownership, data visualization, UX, usability tests.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ipu-design.ffwdev.com/&quot;&gt;IPU Open Data prototype&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Drupal 7, data visualization, multilingual, responsive, REST APIs&lt;/p&gt;</content><author><name>stomanin</name></author><category term="project" /><category term="Product Management" /><category term="UX" /><category term="Data Visualization" /><summary type="html"></summary></entry><entry><title type="html">IPU Website Redesign</title><link href="http://localhost:4000/project-IPU-website-redesign/" rel="alternate" type="text/html" title="IPU Website Redesign" /><published>2016-10-27T00:00:00+02:00</published><updated>2016-10-27T00:00:00+02:00</updated><id>http://localhost:4000/project-IPU-website-redesign</id><content type="html" xml:base="http://localhost:4000/project-IPU-website-redesign/">&lt;p&gt;&lt;img src=&quot;/assets/images/projects/ipu.png&quot; alt=&quot;Screenshot&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Product management, information architecture design, UX, migration.&lt;/p&gt;
+
+&lt;p&gt;Visit the &lt;a href=&quot;https://beta.ipu.org&quot;&gt;Inter-Parliamentary Union website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Drupal 7, multilingual, responsive, migration, Apache Solr, Redis&lt;/p&gt;</content><author><name>stomanin</name></author><category term="project" /><category term="Product Management" /><category term="UX" /><category term="Information Architecture" /><summary type="html"></summary></entry><entry><title type="html">Doc On Demand Product Design</title><link href="http://localhost:4000/project-Doc-On-Demand-product-design/" rel="alternate" type="text/html" title="Doc On Demand Product Design" /><published>2016-08-14T00:00:00+02:00</published><updated>2016-08-14T00:00:00+02:00</updated><id>http://localhost:4000/project-Doc-On-Demand-product-design</id><content type="html" xml:base="http://localhost:4000/project-Doc-On-Demand-product-design/">&lt;p&gt;&lt;img src=&quot;/assets/images/projects/dod.png&quot; alt=&quot;Screenshot&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://invis.io/W583POX7V&quot;&gt;DocOnDemand&lt;/a&gt;, an app that will help you find the best doctors for your needs.&lt;/p&gt;
+
+&lt;p&gt;Brainstorming, prototyping, design iterations, and evaluation.&lt;/p&gt;
+
+&lt;p&gt;Mobile, Balsamiq, InVision, UserTesting&lt;/p&gt;</content><author><name>stomanin</name></author><category term="project" /><category term="Product Design" /><summary type="html"></summary></entry><entry><title type="html">Médecins Sans Frontières CMS Shared Platform</title><link href="http://localhost:4000/project-m%C3%A9decins-sans-fronti%C3%A8res-CMS-Shared-Platform/" rel="alternate" type="text/html" title="Médecins Sans Frontières CMS Shared Platform" /><published>2015-09-15T00:00:00+02:00</published><updated>2015-09-15T00:00:00+02:00</updated><id>http://localhost:4000/project-m%C3%A9decins-sans-fronti%C3%A8res-CMS-Shared-Platform</id><content type="html" xml:base="http://localhost:4000/project-m%C3%A9decins-sans-fronti%C3%A8res-CMS-Shared-Platform/">&lt;p&gt;&lt;img src=&quot;/assets/images/projects/msfusa.png&quot; alt=&quot;Screenshot&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Website redesigns, migration, technical management and customer support for the MSF CMS Shared Platform.&lt;/p&gt;
+
+&lt;p&gt;Visit &lt;a href=&quot;http://www.doctorswithoutborders.org&quot;&gt;http://www.doctorswithoutborders.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Drupal 7 multisite, multilingual, responsive, migration, SASS, Apache Solr, Varnish&lt;/p&gt;</content><author><name>stomanin</name></author><category term="project" /><category term="Web Development" /><category term="Customer Support" /><category term="Infrastructure Management" /><summary type="html"></summary></entry><entry><title type="html">Générations Plus</title><link href="http://localhost:4000/project-generations-plus-website/" rel="alternate" type="text/html" title="Générations Plus" /><published>2014-02-20T00:00:00+01:00</published><updated>2014-02-20T00:00:00+01:00</updated><id>http://localhost:4000/project-generations-plus-website</id><content type="html" xml:base="http://localhost:4000/project-generations-plus-website/">&lt;p&gt;&lt;img src=&quot;/assets/images/projects/generationsplus.png&quot; alt=&quot;Screenshot&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Website design, configuration and custom development for the Swiss magazine &lt;a href=&quot;http://www.generations-plus.ch/&quot;&gt;Générations Plus&lt;/a&gt;. Community and e-commerce features and external web services integration.&lt;/p&gt;
+
+&lt;p&gt;Drupal 7, e-commerce, SOAP web services&lt;/p&gt;</content><author><name>stomanin</name></author><category term="project" /><category term="Web Development" /><summary type="html"></summary></entry><entry><title type="html">CERN Public Website Redesign</title><link href="http://localhost:4000/project-cern-public-website-redesign/" rel="alternate" type="text/html" title="CERN Public Website Redesign" /><published>2013-03-07T00:00:00+01:00</published><updated>2013-03-07T00:00:00+01:00</updated><id>http://localhost:4000/project-cern-public-website-redesign</id><content type="html" xml:base="http://localhost:4000/project-cern-public-website-redesign/">&lt;p&gt;&lt;img src=&quot;/assets/images/projects/cern.png&quot; alt=&quot;Screenshot&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Site building, custom modules development, migration, maintenance for &lt;a href=&quot;https://home.cern&quot;&gt;CERN core website&lt;/a&gt; and other satellite websites (ie. &lt;a href=&quot;https://press.cern&quot;&gt;CERN Press&lt;/a&gt;, &lt;a href=&quot;http://entice.web.cern.ch&quot;&gt;Entice project&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Drupal 7, SASS, LDAP, JSON, multilingual, responsive, migration&lt;/p&gt;
+
+&lt;p&gt;Organization: CERN, the European Organization for Nuclear Research&lt;/p&gt;</content><author><name>stomanin</name></author><category term="project" /><category term="Web Development" /><summary type="html"></summary></entry><entry><title type="html">CERN Drupal Infrastructure</title><link href="http://localhost:4000/project-cern-Drupal-infrastructure/" rel="alternate" type="text/html" title="CERN Drupal Infrastructure" /><published>2012-12-30T00:00:00+01:00</published><updated>2012-12-30T00:00:00+01:00</updated><id>http://localhost:4000/project-cern-Drupal-infrastructure</id><content type="html" xml:base="http://localhost:4000/project-cern-Drupal-infrastructure/">&lt;p&gt;Custom modules development for the CERN Drupal Infrastructure. &lt;a href=&quot;http://entice.web.cern.ch&quot;&gt;Entice project&lt;/a&gt;).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stomanin/cern_toolbar&quot;&gt;CERN Toolbar module&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stomanin/cern_dev_status&quot;&gt;CERN Dev Status module&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stomanin/cern_profiles-display_real_name&quot;&gt;CERN Profile - Display Real Name module&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stomanin/cds_integration&quot;&gt;CDS Integration module&lt;/a&gt; (unstable)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Drupal 7, SASS, JSON&lt;/p&gt;
+
+&lt;p&gt;Organization: CERN, the European Organization for Nuclear Research&lt;/p&gt;</content><author><name>stomanin</name></author><category term="project" /><category term="Web Development" /><summary type="html">Custom modules development for the CERN Drupal Infrastructure. Entice project).</summary></entry><entry><title type="html">The flagging system: help us improving the content</title><link href="http://localhost:4000/cern-change-archive-flagging-system/" rel="alternate" type="text/html" title="The flagging system: help us improving the content" /><published>2012-10-22T00:00:00+02:00</published><updated>2012-10-22T00:00:00+02:00</updated><id>http://localhost:4000/cern-change-archive-flagging-system</id><content type="html" xml:base="http://localhost:4000/cern-change-archive-flagging-system/">&lt;p&gt;&lt;small&gt;This post was originally posted on the &lt;a href=&quot;https://web.archive.org/web/20161102015242/http://change.web.cern.ch/&quot;&gt;CERN Change Blog&lt;/a&gt; at &lt;a href=&quot;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&quot;&gt;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So far for the current &lt;a href=&quot;http://public.web.cern.ch/public/&quot;&gt;CERN Public site&lt;/a&gt; the only way to give feedback is to &lt;a href=&quot;http://public.web.cern.ch/public/en/Contact-en.html&quot;&gt;contact the Web Communications team via email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For the new site though we thought that we need a better way to keep track and review the content.&lt;/p&gt;
+
+&lt;p&gt;Is it up to date? Is it correct? Does it need review?&lt;/p&gt;
+
+&lt;p&gt;In order make the review process easier we have implemented a flagging system that will allow users to “flag” different types of content (posts, comments, documents…) to give feedback on the content and help us improving it.&lt;/p&gt;
+
+&lt;p&gt;The first “flag” that we setup allows CERN users to give feedback on the site content in the About section.&lt;/p&gt;
+
+&lt;p&gt;Once you are logged in into the site, at the bottom of each post you’ll find a “Give feedback” link that will let you mark the content if you think it is out of date, contains errors or needs to be broaden.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/give-feedback.jpeg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As soon as you flag some content the site editors will be notified via email so that the review procedure gets faster.&lt;/p&gt;
+
+&lt;p&gt;This is just the first of a possible serie of flags -in the future we could let people report comments as spam for example, in the sections where they will be allowed-, it still needs some improvement (the “Give feedback” link still need to be styled) but if you want to try it yourself and help us testing it you can already start giving feedback on the posts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;small&gt;This post was originally posted on the &lt;a href=&quot;https://web.archive.org/web/20161102015242/http://change.web.cern.ch/&quot;&gt;CERN Change Blog&lt;/a&gt; at &lt;a href=&quot;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&quot;&gt;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content><author><name>stomanin</name></author><category term="blog" /><category term="cern" /><category term="change" /><category term="Drupal" /><category term="flags" /><summary type="html">This post was originally posted on the CERN Change Blog at http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Integration between Drupal and CDS: is that ready yet?</title><link href="http://localhost:4000/cern-change-archive-drupal-cds-integration/" rel="alternate" type="text/html" title="Integration between Drupal and CDS: is that ready yet?" /><published>2012-09-04T00:00:00+02:00</published><updated>2012-09-04T00:00:00+02:00</updated><id>http://localhost:4000/cern-change-archive-drupal-cds-integration</id><content type="html" xml:base="http://localhost:4000/cern-change-archive-drupal-cds-integration/">&lt;p&gt;&lt;small&gt;This post was originally posted on the &lt;a href=&quot;https://web.archive.org/web/20161102015242/http://change.web.cern.ch/&quot;&gt;CERN Change Blog&lt;/a&gt; at &lt;a href=&quot;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&quot;&gt;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One of the things we are trying to figure out for our new Drupal site – and for the whole Drupal infrastructure in general – is how to integrate Drupal with applications used at CERN (SSO, &lt;a href=&quot;http://entice.web.cern.ch/projects/indico-feeds&quot;&gt;Indico&lt;/a&gt;, &lt;a href=&quot;http://entice.web.cern.ch/projects/drupal-search&quot;&gt;Search&lt;/a&gt;, &lt;a href=&quot;http://entice.web.cern.ch/projects/ldap&quot;&gt;LDAP&lt;/a&gt;). We discussed Drupal and CDS in a series of recent ENTICE meetings. So have the two systems been integrated yet? When will this be ready?&lt;/p&gt;
+
+&lt;p&gt;We are currently working on a new interface to let Drupal – and perhaps, other applications at CERN – communicate.&lt;/p&gt;
+
+&lt;p&gt;We have two goals for the interface:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Let users embed CDS documents on Drupal sites&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Let users manage the “basket” of CDS documents from Drupal, keeping the information synchronized on the two systems.&lt;/strong&gt; &lt;em&gt;Every CDS document comes with a set of attributes that are editable from CDS, and that can be kept up to date or not, depending on how the user wants to use the information. You might want to display an image in a blog post along with a caption from CDS, for example, but keep the option to override it with a custom version.&lt;/em&gt;&lt;br /&gt;
+Point 2 is stil under development but we have been working on embedding CDS documents in Drupal for some time now and tried many possible approaches. A technique we are currently testing that’s giving good results is integration using the &lt;a href=&quot;http://oembed.com/&quot;&gt;oEmbed&lt;/a&gt; module (from the CDS side) and the &lt;a href=&quot;http://drupal.org/project/media&quot;&gt;Media&lt;/a&gt; module (Drupal side).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Media allows users to manage a library of media files - including audio, video, and text documents on Drupal. oEmbed is a format that allows an embedded representation of a URL on third-party sites. With the integration of CDS the user will be able to display embedded content and integrate it with the Drupal system (let’s think about the &lt;a href=&quot;http://drupal.org/documentation/modules/image&quot;&gt;Drupal Image styles&lt;/a&gt; or the &lt;a href=&quot;http://drupal.org/project/file_entity&quot;&gt;file entities&lt;/a&gt; for example) just knowing the link to that resource, without need to parse the resource directly.&lt;/p&gt;
+
+&lt;p&gt;We are currently testing this method on several sites (you can see some examples here, some of which integrate content from other sources such as Youtube or Flickr) and once the workflow for media integration is stable, &lt;a href=&quot;http://change-archive.web.cern.ch/blog/61&quot;&gt;Ludmila&lt;/a&gt; and I will present it to the ENTICE meeting. The oEmbed APIs have been just pushed to production on CDS, so this will be ready to go live on the Drupal environment after approval at the next ENTICE meeting.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;small&gt;This post was originally posted on the &lt;a href=&quot;https://web.archive.org/web/20161102015242/http://change.web.cern.ch/&quot;&gt;CERN Change Blog&lt;/a&gt; at &lt;a href=&quot;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&quot;&gt;http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content><author><name>stomanin</name></author><category term="blog" /><category term="CERN" /><category term="change" /><category term="Drupal" /><category term="CERN Document Server" /><summary type="html">This post was originally posted on the CERN Change Blog at http://change-archive.web.cern.ch/blog/silvia-tomanin/integration-between-drupal-and-cds-ready-yet</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Aggregating content</title><link href="http://localhost:4000/cern-change-archive-aggregating-content/" rel="alternate" type="text/html" title="Aggregating content" /><published>2012-08-03T00:00:00+02:00</published><updated>2012-08-03T00:00:00+02:00</updated><id>http://localhost:4000/cern-change-archive-aggregating-content</id><content type="html" xml:base="http://localhost:4000/cern-change-archive-aggregating-content/">&lt;p&gt;&lt;small&gt;This post was originally posted on the &lt;a href=&quot;https://web.archive.org/web/20161102015242/http://change.web.cern.ch/&quot;&gt;CERN Change Blog&lt;/a&gt; at &lt;a href=&quot;http://change-archive.web.cern.ch/blog/silvia-tomanin/aggregating-content&quot;&gt;http://change-archive.web.cern.ch/blog/silvia-tomanin/aggregating-content&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At CERN there are many sites of interest that live and are maintained beyond the public site.
+If you had a look at the new beta, you problaly noticed that some of the content displayed has been aggregated from other sites. The way we categorize this content depends on the audience.&lt;/p&gt;
+
+&lt;p&gt;You can find this content:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;on the &lt;a href=&quot;https://cern.ch/students-educators&quot;&gt;Students and Educators&lt;/a&gt; section, displaying the Summer Student Lecture Programme&lt;/li&gt;
+  &lt;li&gt;on the &lt;a href=&quot;https://cern.ch/scientists&quot;&gt;Scientist&lt;/a&gt; section, where we aggregate “News from around he web”, “CERN Courier news” and “Recent publications”&lt;/li&gt;
+  &lt;li&gt;on the &lt;a href=&quot;https://cern.ch/cern-people&quot;&gt;CERN people&lt;/a&gt; section, where we show “News from around CERN”, “Staff association updates”, today’s events, service interventios and available trainings for CERN users.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you know other sites producing content that could be interesting for students, educators, scientists or CERN people &lt;a href=&quot;mailto:web-team-editors@cern.ch?subject=Aggregation%20of%20content%20on%20the%20new%20Public%20site&quot;&gt;get in touch!&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;small&gt;This post was originally posted on the &lt;a href=&quot;https://web.archive.org/web/20161102015242/http://change.web.cern.ch/&quot;&gt;CERN Change Blog&lt;/a&gt; at &lt;a href=&quot;http://change-archive.web.cern.ch/blog/silvia-tomanin/aggregating-content&quot;&gt;http://change-archive.web.cern.ch/blog/silvia-tomanin/aggregating-content&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content><author><name>stomanin</name></author><category term="blog" /><category term="cern" /><category term="change" /><category term="Drupal" /><category term="content" /><summary type="html">This post was originally posted on the CERN Change Blog at http://change-archive.web.cern.ch/blog/silvia-tomanin/aggregating-content</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry></feed>
