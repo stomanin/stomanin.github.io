@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hi! Here you can find some of the things I can do and some of the technologies that I have been working with in.
+Hi! Here you can find some of the things I can do and some of the technologies I have been working with.
 
 ## Skills
 
-Back-end / Front-end / Integration
+**Back-end / Front-end / Integration**
 <ul class="skill-list">
 	<li>PHP</li>
 	<li>Ruby/Rails</li>
@@ -22,14 +22,14 @@ Back-end / Front-end / Integration
 	<li>R</li>
 </ul>
 
-Wireframing and Prototyping
+**Wireframing and Prototyping**
 <ul class="skill-list">
 	<li>Balsamiq</li>
 	<li>Invision</li>
 	<li>UserTesting</li>
 </ul>
 
-PM methodologies and tools
+**PM methodologies and tools**
 <ul class="skill-list">
 	<li>Agile Scrum</li>
 	<li>Kanban</li>
@@ -40,26 +40,26 @@ PM methodologies and tools
 </ul>
 
 
-CMSs
+**CMSs**
 <ul class="skill-list">
 	<li>Drupal 7, 8 and 6 on LAMP/LNMP</li>
 	<li>Wordpress</li>
 </ul>
 
-Version control
+**Version control**
 <ul class="skill-list">
 	<li>Git</li>
 	<li>SVN</li>
 </ul>
 
-Databases
+**Databases**
 <ul class="skill-list">
 	<li>MySQL</li>
 	<li>Oracle</li>
 	<li>Access</li>
 </ul>
 
-SEO
+**SEO**
 <ul class="skill-list">
 	<li>Google Tag Manager</li>
 	<li>Google Analytics</li>
