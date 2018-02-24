@@ -24,6 +24,7 @@ Led the design and development of the IPU Open Data platform for housing, managi
 Product management, product ownership, data visualization, UX, usability tests.  
 
 <a href="http://ipu-design.ffwdev.com/">IPU Open Data prototype</a> 
+<a href="http://data.ipu.org/">Live site</a> 
 
 Drupal 7, data visualization, multilingual, responsive, REST APIs
 
